@@ -2,3 +2,4 @@ This is FileB
 Change on FileB
 Additional change on FileB
 Making another change on FileB
+This is for Squash merge on main branch
